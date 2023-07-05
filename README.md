@@ -2,4 +2,4 @@
 
 Change the background of the website on clicking button with a random color.
 
-Preview: https://daini10421.github.io/Mini-Project-20-Color-Flipper/
+Preview: https://raw.githack.com/daini10421/Mini-Project-20-Color-Flipper/main/Colorflipper.html
